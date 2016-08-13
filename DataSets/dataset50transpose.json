@@ -1,0 +1,353 @@
+{
+    "government": {
+        "position": 59
+    },
+    "dividend": {
+        "position": 81
+    },
+    "pct": {
+        "position": 1
+    },
+    "total": {
+        "position": 93
+    },
+    "oil": {
+        "position": 79
+    },
+    "is": {
+        "position": 44
+    },
+    "added": {
+        "position": 32
+    },
+    "sales": {
+        "position": 104
+    },
+    "agreed": {
+        "position": 97
+    },
+    "prior": {
+        "position": 42
+    },
+    "bank": {
+        "position": 20
+    },
+    "stake": {
+        "position": 31
+    },
+    "unit": {
+        "position": 37
+    },
+    "avg": {
+        "position": 90
+    },
+    "sale": {
+        "position": 0
+    },
+    "one": {
+        "position": 18
+    },
+    "profit": {
+        "position": 63
+    },
+    "shares": {
+        "position": 100
+    },
+    "tax": {
+        "position": 113
+    },
+    "dlrs": {
+        "position": 61
+    },
+    "mln": {
+        "position": 91
+    },
+    "securities": {
+        "position": 39
+    },
+    "operations": {
+        "position": 19
+    },
+    "foreign": {
+        "position": 80
+    },
+    "group": {
+        "position": 112
+    },
+    "earnings": {
+        "position": 30
+    },
+    "sell": {
+        "position": 33
+    },
+    "div": {
+        "position": 70
+    },
+    "company": {
+        "position": 43
+    },
+    "first": {
+        "position": 38
+    },
+    "meeting": {
+        "position": 115
+    },
+    "expected": {
+        "position": 103
+    },
+    "companies": {
+        "position": 99
+    },
+    "international": {
+        "position": 106
+    },
+    "spokesman": {
+        "position": 114
+    },
+    "acquisition": {
+        "position": 10
+    },
+    "shrs": {
+        "position": 29
+    },
+    "note": {
+        "position": 8
+    },
+    "last": {
+        "position": 11
+    },
+    "net": {
+        "position": 49
+    },
+    "analysts": {
+        "position": 73
+    },
+    "nine": {
+        "position": 46
+    },
+    "trade": {
+        "position": 65
+    },
+    "current": {
+        "position": 95
+    },
+    "american": {
+        "position": 53
+    },
+    "per": {
+        "position": 40
+    },
+    "business": {
+        "position": 62
+    },
+    "inc": {
+        "position": 94
+    },
+    "four": {
+        "position": 35
+    },
+    "president": {
+        "position": 47
+    },
+    "told": {
+        "position": 105
+    },
+    "buy": {
+        "position": 15
+    },
+    "includes": {
+        "position": 41
+    },
+    "cash": {
+        "position": 109
+    },
+    "vs": {
+        "position": 92
+    },
+    "quarter": {
+        "position": 26
+    },
+    "some": {
+        "position": 74
+    },
+    "japan": {
+        "position": 17
+    },
+    "results": {
+        "position": 16
+    },
+    "increase": {
+        "position": 107
+    },
+    "may": {
+        "position": 21
+    },
+    "reuter": {
+        "position": 6
+    },
+    "interest": {
+        "position": 36
+    },
+    "end": {
+        "position": 84
+    },
+    "oper": {
+        "position": 78
+    },
+    "banks": {
+        "position": 89
+    },
+    "qtly": {
+        "position": 27
+    },
+    "assets": {
+        "position": 66
+    },
+    "investment": {
+        "position": 5
+    },
+    "stock": {
+        "position": 67
+    },
+    "corp": {
+        "position": 116
+    },
+    "three": {
+        "position": 110
+    },
+    "industries": {
+        "position": 50
+    },
+    "this": {
+        "position": 111
+    },
+    "prices": {
+        "position": 58
+    },
+    "pay": {
+        "position": 86
+    },
+    "rates": {
+        "position": 71
+    },
+    "week": {
+        "position": 69
+    },
+    "capital": {
+        "position": 85
+    },
+    "financial": {
+        "position": 3
+    },
+    "dlr": {
+        "position": 22
+    },
+    "loss": {
+        "position": 51
+    },
+    "earlier": {
+        "position": 12
+    },
+    "dollar": {
+        "position": 9
+    },
+    "five": {
+        "position": 77
+    },
+    "co": {
+        "position": 72
+    },
+    "six": {
+        "position": 101
+    },
+    "year": {
+        "position": 54
+    },
+    "ltd": {
+        "position": 75
+    },
+    "split": {
+        "position": 23
+    },
+    "th": {
+        "position": 87
+    },
+    "market": {
+        "position": 45
+    },
+    "common": {
+        "position": 48
+    },
+    "japanese": {
+        "position": 14
+    },
+    "merger": {
+        "position": 2
+    },
+    "cts": {
+        "position": 24
+    },
+    "world": {
+        "position": 55
+    },
+    "agreement": {
+        "position": 13
+    },
+    "shareholders": {
+        "position": 64
+    },
+    "february": {
+        "position": 34
+    },
+    "march": {
+        "position": 7
+    },
+    "record": {
+        "position": 56
+    },
+    "qtr": {
+        "position": 82
+    },
+    "rate": {
+        "position": 68
+    },
+    "gain": {
+        "position": 102
+    },
+    "billion": {
+        "position": 28
+    },
+    "revs": {
+        "position": 108
+    },
+    "april": {
+        "position": 76
+    },
+    "exchange": {
+        "position": 83
+    },
+    "stg": {
+        "position": 98
+    },
+    "shr": {
+        "position": 52
+    },
+    "share": {
+        "position": 25
+    },
+    "board": {
+        "position": 57
+    },
+    "price": {
+        "position": 60
+    },
+    "general": {
+        "position": 88
+    },
+    "offer": {
+        "position": 96
+    },
+    "against": {
+        "position": 4
+    }
+}
